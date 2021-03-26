@@ -12,8 +12,7 @@ HTML, CSS, JavaScript, JSON
 
 https://istephensondev.github.io/Task-Tracker/.
 
-![image](https://user-images.githubusercontent.com/74675624/112577795-18d9d400-8dc3-11eb-8288-514be36233c2.png)
-
+![image](https://user-images.githubusercontent.com/74675624/112574943-56d3f980-8dbd-11eb-97c7-b2c4b81a59b7.png)
 
 ## Contribution
 Made with ❤️ by Ivy Stephenson
