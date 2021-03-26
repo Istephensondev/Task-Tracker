@@ -10,6 +10,8 @@ HTML, CSS, JavaScript, JSON
 
 ## Website
 
+![picture](desktop/Pictures/tasktracker.png)
+
 
 ## Contribution
 Made with ❤️ by Ivy Stephenson
