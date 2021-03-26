@@ -6,10 +6,7 @@ An online task tracker with drag and drop functionality, as well as data persist
 
 ## Built With
 
-# HTML
-# CSS
-# JavaScript
-# JSON
+HTML, CSS, JavaScript, JSON
 
 ## Website
 
