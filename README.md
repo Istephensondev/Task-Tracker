@@ -10,7 +10,7 @@ HTML, CSS, JavaScript, JSON
 
 ## Website
 
-![image](https://user-images.githubusercontent.com/74675624/112574794-0f4d6d80-8dbd-11eb-8c2a-42c398b46e8c.png)
+![image](https://user-images.githubusercontent.com/74675624/112574943-56d3f980-8dbd-11eb-97c7-b2c4b81a59b7.png)
 
 
 ## Contribution
