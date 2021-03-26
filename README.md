@@ -10,7 +10,7 @@ HTML, CSS, JavaScript, JSON
 
 ## Website
 
-![picture](/Pictures/tasktracker.png)
+![image](https://user-images.githubusercontent.com/74675624/112574794-0f4d6d80-8dbd-11eb-8c2a-42c398b46e8c.png)
 
 
 ## Contribution
