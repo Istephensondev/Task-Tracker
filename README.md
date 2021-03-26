@@ -10,7 +10,7 @@ HTML, CSS, JavaScript, JSON
 
 ## Website
 
-![picture](desktop/Pictures/tasktracker.png)
+![picture](/Pictures/tasktracker.png)
 
 
 ## Contribution
